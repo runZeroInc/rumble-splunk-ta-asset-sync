@@ -3,9 +3,8 @@
         "name": "TA_rumble_asset_sync",
         "displayName": "rumble-asset-sync",
         "version": "1.0.15",
-        "apiVersion": "3.0.0",
         "restRoot": "TA_rumble_asset_sync",
-        "schemaVersion": "0.0.2"
+        "schemaVersion": "0.0.3"
     },
     "pages": {
         "configuration": {

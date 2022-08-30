@@ -1,5 +1,4 @@
 #!/bin/bash
-
 AUTH=`echo ${SPLUNK_USER}:${SPLUNK_PASSWORD} | base64.exe -w 0`
 
 echo "[*] Getting an authentication token..."
